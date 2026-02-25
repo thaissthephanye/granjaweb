@@ -1,0 +1,48 @@
+{
+  "galpoes": [
+    {
+      "nome": "Galpão Central",
+      "quantidadeFrangos": 5000,
+      "quantidadeComedouros": 100,
+      "quantidadeBebedouros": 80,
+      "quantidadeVentiladores": 20,
+      "quantidadeExaustores": 10,
+      "quantidadeResponsaveis": 5,
+      "termometroAmbiente": false,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Galpão Norte",
+      "quantidadeFrangos": 3500,
+      "quantidadeComedouros": 70,
+      "quantidadeBebedouros": 60,
+      "quantidadeVentiladores": 15,
+      "quantidadeExaustores": 8,
+      "quantidadeResponsaveis": 4,
+      "termometroAmbiente": true
+    },
+    {
+      "id": "3",
+      "nome": "Galpão Sul",
+      "quantidadeFrangos": 4200,
+      "quantidadeComedouros": 85,
+      "quantidadeBebedouros": 70,
+      "quantidadeVentiladores": 18,
+      "quantidadeExaustores": 9,
+      "quantidadeResponsaveis": 4,
+      "termometroAmbiente": false
+    },
+    {
+      "id": 1771981012950,
+      "nome": "galpão sala 3",
+      "quantidadeFrangos": 12,
+      "quantidadeComedouros": 12,
+      "quantidadeBebedouros": 12121,
+      "quantidadeVentiladores": 1212,
+      "quantidadeExaustores": 12,
+      "quantidadeResponsaveis": 12,
+      "termometroAmbiente": false
+    }
+  ]
+}
