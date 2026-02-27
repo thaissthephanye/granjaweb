@@ -60,7 +60,7 @@ function ListaGaloes({ onEdit, refresh }) {
                         <tr>
                             <td colSpan="9" className="empty-table-message">
                                 <div className="empty-state">
-                                    <span className="empty-icon">🏭</span>
+                                    <span className="empty-icon"></span>
                                     <p>Nenhum galpão cadastrado</p>
                                     <small>Clique em "Adicionar Novo Galpão" para começar</small>
                                 </div>

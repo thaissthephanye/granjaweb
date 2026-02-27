@@ -64,7 +64,7 @@ function Galpoes() {
             <Container className="galpoes-container">
                 <div className="page-header">
                     <h1 className="page-title">
-                        <span className="title-icon">🏭</span>
+                        <span className="title-icon"></span>
                         Gerenciamento de Galpões
                     </h1>
                     <p className="page-subtitle">

@@ -7,17 +7,17 @@ import CardApresentacao from '../components/CardApresentacao';
 function Home() {
     const cards = [
         {
-            titulo: '🚀 Tecnologia Avançada',
+            titulo: 'Tecnologia Avançada',
             texto: 'Sistemas automatizados para monitoramento e controle dos galpões, garantindo o melhor ambiente para seus frangos.',
             imagem: 'https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80'
         },
         {
-            titulo: '🐔 Bem-Estar Animal',
+            titulo: 'Bem-Estar Animal',
             texto: 'Ambientes controlados com temperatura, ventilação e alimentação adequadas para o desenvolvimento saudável dos frangos.',
             imagem: 'https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80'
         },
         {
-            titulo: '📊 Gestão Eficiente',
+            titulo: 'Gestão Eficiente',
             texto: 'Controle total sobre recursos, responsáveis e equipamentos, otimizando a produção e reduzindo custos.',
             imagem: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=200&q=80'
         }
